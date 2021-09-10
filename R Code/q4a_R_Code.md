@@ -676,19 +676,9 @@ diagnose(df)
 plot_na_pareto(df)
 ```
 
-![](q4a_R_Code_files/figure-gfm/Completeness-1.png)<!-- -->
+![](q4a_R_Code_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-``` r
-plot_na_hclust(df)
-```
-
-![](q4a_R_Code_files/figure-gfm/Completeness-2.png)<!-- -->
-
-``` r
-plot_na_intersect(df)   
-```
-
-![](q4a_R_Code_files/figure-gfm/Completeness-3.png)<!-- -->
+plot\_na\_hclust(df) plot\_na\_intersect(df)
 
 **Uniqueness**
 
